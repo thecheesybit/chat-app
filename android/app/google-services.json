@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "140500927396",
+    "firebase_url": "https://solus-2e5de.firebaseio.com",
+    "project_id": "solus-2e5de",
+    "storage_bucket": "solus-2e5de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140500927396:android:4a5740ac4c30996729b731",
+        "android_client_info": {
+          "package_name": "com.ayush717.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140500927396-nadhlfer770ok7lmnj33qenkls8vbfgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_DFVYGwN-nXAFEMN3cR-bN-kIPKQmevM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140500927396-nadhlfer770ok7lmnj33qenkls8vbfgn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
